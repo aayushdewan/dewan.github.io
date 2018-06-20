@@ -1,0 +1,21 @@
+.header img{
+	height: 55%; 
+	margin-top: 1%;
+}
+.header img:hover{
+	filter: blur(3px);
+} 
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+   
+}
+.centered h2{
+	font-size: 50px;
+	color: white;
+	font-family: 'Nunito Sans', sans-serif; 
+}
+.bt{
+	margin-left: 40%;
+}
